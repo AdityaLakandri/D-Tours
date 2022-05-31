@@ -1,0 +1,39 @@
+.contact-img{
+    width:100%;
+}
+
+.contact-img img{
+    width:100%;
+    margin-top: 0;
+    height: 550px;
+}
+.mission h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.mission p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 30px;
+    font-size: 20px;
+
+}
+.vision h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.vision p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 30px;
+    font-size: 20px;
+    margin-bottom: 50px;
+
+}
+

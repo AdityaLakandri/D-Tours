@@ -1,0 +1,24 @@
+.contact-img{
+    width:100%;
+}
+
+.contact-img img{
+    width:100%;
+    margin-top: 0;
+    height: 550px;
+}
+
+.s2 h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.view{
+    padding:0 5px;
+}
+.view a{
+    display: inline-block;
+    color:#3bbb2a;  
+}
+.view a:hover{
+  color:#5ff066;
+}

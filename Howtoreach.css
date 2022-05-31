@@ -1,0 +1,34 @@
+.contact-img{
+    width:100%;
+}
+
+
+.contact-img img{
+    width:100%;
+    margin-top: 0;
+    height: 550px;
+}
+.loc{
+    margin: 50px 80px 80px 100px;
+    text-align: justify;
+}
+.loc h1{
+    font-size: 40px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+.loc p{
+    color: rgb(3, 3, 44);
+    line-height: 35px;
+    font-size: 20px;
+    word-spacing: 5px;
+}
+.map{
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.map iframe{
+    
+    height: 400px;
+    width:80%;
+}
